@@ -39,7 +39,11 @@ QueenSewWhatsappBot-sewqueen
 [![Setup - isuwa](https://github.com/isuwabrooo/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/isuwabrooo/isuwaBot/wiki)
 
 ##
-
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/QueenSewWhatsappBot.git)
+     </div>
+<br>
+<br >
+ 
 ### 🇱🇰 ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
